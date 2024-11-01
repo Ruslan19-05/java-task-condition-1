@@ -24,5 +24,7 @@ public class Condition2 {
         if(number==0){
             result="Number equal to zero";
         }
+        //output
+        System.out.println(result);
     }
 }

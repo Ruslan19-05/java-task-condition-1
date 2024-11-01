@@ -57,6 +57,7 @@ public class Condition3 {
             System.out.println("Autumn");
         }else
             System.out.println("Winter");
+        //output
         System.out.print("Mounth:"+result);
 
     }
